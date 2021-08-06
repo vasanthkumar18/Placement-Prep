@@ -14,7 +14,7 @@ Never lose hope, keep doing what you're best at. Never compare your self with ot
 1. https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/?ref=lbp : Try solving all these questions, most of them would be a model of these questions in OT or interviews. 
 
 2. DYNAMIC PROGRAMMING:
-I personally found DP to be hard, but this guy, ADITYA VERMA made it a Cake Walk. He has a playlist of 50 videos, but believe me, you'll your problem solving ability to different level. He uses HINDI in all the videos, but doesn't matter even if you are not good with it. You'll easily undestand it. You'll find DP exteremly easy, MAKE SURE YOU WATCH ENTIRE PLAYLIST. 
+I personally found DP to be hard, but this guy, ADITYA VERMA made it a Cake Walk. He has a playlist of 50 videos, but believe me, you'll improve problem solving ability to a different level. He uses HINDI in all the videos, but doesn't matter even if you are not good with it. You'll easily undestand it. You'll find DP exteremly easy, MAKE SURE YOU WATCH ENTIRE PLAYLIST. 
 https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
 
 3. SLIDING WINDOW MAXIMUM: 
