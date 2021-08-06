@@ -7,8 +7,8 @@ Basic stuff you need to know attempt the OTs and Interviews.
 
 
 ## MY ADVISE
-I'd say placements are 55% Work and 45% Luck. And the percentages can vary to individuals.
-Never lose hope, keep doing what you're best at. Never compare your self with others. You'll see your peeps who have little to no knowledge getting placed and also talented people ending up getting rejected somehow due to some or other factors. So, never compare with others, just keep working. 
+I'd say placements are 55% Work and 45% Luck. And the percentages can vary depending on the individuals and interviews. 
+Never lose hope, keep doing what you're best at. Never compare your self with others. You'll see your peeps who have little to no knowledge getting placed and also talented people ending up getting rejected somehow due to some or other factors. So, never compare with others, just keep working. You'll have your day. 
 
 # CODING
 1. https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/?ref=lbp : Try solving all these questions, most of them would be a model of these questions in OT or interviews. 
