@@ -3,8 +3,7 @@
 Basic stuff you need to know attempt the OTs and Interviews. 
 > Focused on Product Based companies. 
 <br/>
-<br/>
-![img](https://resources.workable.com/wp-content/uploads/2018/05/prepare-interviews-featured.png)
+![img](https://www.jobberman.com/blog/wp-content/uploads/sites/8/2020/03/Jobberman_Preparing_for_Interviews_FB-2.png)
 <br/>
 <br/>
 ## ABOUT ME
