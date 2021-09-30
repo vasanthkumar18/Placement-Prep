@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_j
 Will give
 
 # APTITUDE
-Take 2-3 days. Solve most of the questions, till you think I'm good to go with this area and you are quick enough to solve the problem without calculator. 
+Take 2-3 days. Solve most of the questions, till you think you're good to go with this area and you are quick enough to solve the problem without calculator. 
 https://www.indiabix.com/aptitude/questions-and-answers/
 
 
