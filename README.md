@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_j
 
 > ## [Programming or Coding](Coding)
 >
-> [Dynamic Programming: DP](Coding/Dynamic_Programming)
+> [Dynamic Programming: DP](https://github.com/vasanthkumar18/Placement-Prep/tree/main/Coding/Dynamic%20Programming)
 >
 > 
 
