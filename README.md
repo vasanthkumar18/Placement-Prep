@@ -33,9 +33,9 @@ https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_j
 
 
 
-> ## [Programming/ Coding](Coding)
+> ## [Programming or Coding](Coding)
 >
-> [Dynamic Programming: DP](Coding/Dynamic Programming)
+> [Dynamic Programming: DP](Coding/Dynamic_Programming)
 >
 > 
 
