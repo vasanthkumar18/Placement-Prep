@@ -4,7 +4,7 @@ Basic stuff you need to know attempt the OTs and Interviews.
 > Focused on Product Based companies. 
 <br/>
 <br/>
-![placement](https://resources.workable.com/wp-content/uploads/2018/05/prepare-interviews-featured.png)
+![img](https://resources.workable.com/wp-content/uploads/2018/05/prepare-interviews-featured.png)
 <br/>
 <br/>
 ## ABOUT ME
