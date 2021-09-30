@@ -31,7 +31,13 @@ https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo
 5. APPLICATIONS OF STACKS:
 https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd
 
-6. 
+
+
+> ## [Programming/ Coding](Coding)
+>
+> [Dynamic Programming](Coding/Dynamic Programming)
+>
+> 
 
 
 
