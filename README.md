@@ -8,8 +8,6 @@ Basic stuff you need to know attempt the OTs and Interviews.
 
 <br/>
 
-## ABOUT ME
-
 
 ## MY ADVICE
 I'd say placements are 55% Work and 45% Luck. And the percentages can vary depending on the individuals and interviews. 
