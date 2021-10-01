@@ -1,4 +1,4 @@
-![coding](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/06/08121338/shutterstock_1714491562.jpg)
+![coding](https://biomedicalodyssey.blogs.hopkinsmedicine.org/files/2020/02/programming-code-window-GettyImages-1124838925_640.jpg)
 
 # CODING QUESTIONS LIST 
 
