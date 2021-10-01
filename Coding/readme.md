@@ -1,4 +1,4 @@
-![coding](https://biomedicalodyssey.blogs.hopkinsmedicine.org/files/2020/02/programming-code-window-GettyImages-1124838925_640.jpg)
+![coding](https://biomedicalodyssey.blogs.hopkinsmedicine.org/files/2020/02/programming-code-window-GettyImages-1124838925_640.jpg =100*100)
 
 # CODING QUESTIONS LIST 
 
