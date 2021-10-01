@@ -1,4 +1,4 @@
-<img src="https://biomedicalodyssey.blogs.hopkinsmedicine.org/files/2020/02/programming-code-window-GettyImages-1124838925_640.jpg" width="200" height="200">
+<img src="https://biomedicalodyssey.blogs.hopkinsmedicine.org/files/2020/02/programming-code-window-GettyImages-1124838925_640.jpg" width="300" height="300">
 
 # CODING QUESTIONS LIST 
 
