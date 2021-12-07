@@ -118,8 +118,7 @@ Follow this : https://www.geeksforgeeks.org/puzzles/
 
 
 # Experiences 
-1. https://drive.google.com/drive/u/0/folders/1009o9Sv_mWir6DJuMeEt_sdc6h4V-nvw
-2. https://www.geeksforgeeks.org/company-interview-corner/
+https://www.geeksforgeeks.org/company-interview-corner/
 
 
 
