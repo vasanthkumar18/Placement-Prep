@@ -20,7 +20,7 @@ Never lose hope, keep doing what you're best at. Never compare your self with ot
 
 ### DYNAMIC PROGRAMMING ( Special Mention )
 
-1. I personally found DP to be hard, but this guy, *ADITYA VERMA made it a Cake Walk*. He has a playlist of 50 videos, but believe me, you'll improve problem solving ability to a different level. He uses HINDI in all the videos, but doesn't matter even if you are not good with it. You'll easily undestand it. You'll find DP exteremly easy, **MAKE SURE YOU WATCH ENTIRE PLAYLIST.** https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+1. I personally found DP to be hard, but this guy, *ADITYA VERMA made it a Cake Walk*. He has a playlist of 50 videos, but believe me, your problem solving ability will go to a different level. He uses HINDI in all the videos, but doesn't matter even if you are not good with it. You'll easily undestand it. You'll find DP exteremly easy, **MAKE SURE YOU WATCH ENTIRE PLAYLIST.** https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
 
 2. The **top 20 Dynamic Programming Questions**, solve this after you're good to go. https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/
 
