@@ -14,7 +14,7 @@ I'd say placements are 55% Work and 45% Luck. And the percentages can vary depen
 Never lose hope, keep doing what you're best at. Never compare your self with others. You'll see your peeps who have little to no knowledge getting placed and also talented people ending up getting rejected somehow due to some or other factors. *So, never compare with others, just keep working. You'll have your day.*
 </br>
 1. The following are some of the things to do get a job at a product based company. 
-2. Your resume will always be your question paper in a typical interview. Whatever you add in your resume, it should be something that you did or you are skilled at.
+2. Your resume will always be your question paper in a typical interview. Whatever you add in your resume, it should be something that you did or you are skilled at...
 
 # CODING
 
